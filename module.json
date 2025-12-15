@@ -1,0 +1,33 @@
+{
+    "id": "ddb-ai-compendium-translator",
+    "title": "DDB AI Compendium Translator",
+    "description": "Module pour traduire les compendiums DDB en français via IA.",
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "12",
+        "verified": "12"
+    },
+    "authors": [
+        {
+            "name": "Antigravity",
+            "flags": {}
+        }
+    ],
+    "scripts": [
+        "scripts/translator.js"
+    ],
+    "esmodules": [],
+    "packFolders": [],
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "compatibility": {}
+            }
+        ]
+    },
+    "url": "",
+    "manifest": "",
+    "download": ""
+}
