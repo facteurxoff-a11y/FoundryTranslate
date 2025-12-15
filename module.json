@@ -26,5 +26,8 @@
                 "compatibility": {}
             }
         ]
-    }
+    },
+    "url": "https://github.com/facteurxoff-a11y/FoundryTranslate",
+    "manifest": "https://raw.githubusercontent.com/facteurxoff-a11y/FoundryTranslate/refs/heads/main/module.json",
+    "download": "https://github.com/facteurxoff-a11y/FoundryTranslate/archive/refs/tags/d.zip"
 }
